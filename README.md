@@ -1,5 +1,5 @@
-### Hi there 👋
-[DO NOT CLICK](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+### [Hi there 👋](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 <!--
 **BigThighDude/BigThighDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
